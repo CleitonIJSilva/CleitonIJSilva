@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonIJSilva&theme=dark&show_midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonIJSilva&theme=midnight-purple)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonIJSilva&layout=compact&theme=midnight-purple)
 
 **CleitonIJSilva/CleitonIJSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
