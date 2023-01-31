@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonIJSilva&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonIJSilva&theme=midnight-dark)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonIJSilva&layout=compact&theme=dracula)
 
 **CleitonIJSilva/CleitonIJSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
